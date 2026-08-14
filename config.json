@@ -1,6 +1,6 @@
 {
-  "SelectedTargetType": "process",
-  "SelectedTargetId": "AIMP.exe",
+  "SelectedTargetType": "session",
+  "SelectedTargetId": "chrome.exe",
   "ToggleOnStartup": true,
   "PauseOtherTargetsOnSelection": true,
   "OverlayOpacity": 1,
