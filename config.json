@@ -1,0 +1,14 @@
+{
+  "SelectedTargetType": "process",
+  "SelectedTargetId": "AIMP.exe",
+  "ToggleOnStartup": true,
+  "ToggleOnTrayClick": false,
+  "PauseOtherTargetsOnSelection": true,
+  "OverlayOpacity": 1,
+  "Language": "ru",
+  "InstalledVersion": "",
+  "GlobalHotkey": "Alt\u002BC",
+  "StartupDisplayDurationMs": 3000,
+  "MouseLeaveDisplayDurationMs": 300,
+  "StartWithWindows": true
+}
