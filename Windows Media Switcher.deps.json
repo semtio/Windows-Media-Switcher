@@ -7,7 +7,7 @@
   "targets": {
     ".NETCoreApp,Version=v10.0": {},
     ".NETCoreApp,Version=v10.0/win-x64": {
-      "Windows Media Switcher/1.0.0": {
+      "Windows Media Switcher/1.0.1": {
         "dependencies": {
           "NAudio": "2.2.1",
           "runtimepack.Microsoft.NETCore.App.Runtime.win-x64": "10.0.10",
@@ -1079,7 +1079,7 @@
     }
   },
   "libraries": {
-    "Windows Media Switcher/1.0.0": {
+    "Windows Media Switcher/1.0.1": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
