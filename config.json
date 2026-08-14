@@ -1,7 +1,8 @@
 {
-  "SelectedTargetType": "session",
-  "SelectedTargetId": "chrome.exe",
+  "SelectedTargetType": "process",
+  "SelectedTargetId": "AIMP.exe",
   "ToggleOnStartup": true,
+  "PauseOtherTargetsOnSelection": true,
   "OverlayOpacity": 1,
   "Language": "ru",
   "GlobalHotkey": "Alt\u002BC",
