@@ -1,6 +1,7 @@
 {
   "ru": {
     "tray.open": "Открыть Windows Media Switcher",
+    "tray.checkUpdates": "Проверить обновления",
     "tray.exit": "Выход",
     "overlay.noTargets": "Медиацели не найдены",
     "overlay.noWindow": "нет окна",
@@ -25,6 +26,7 @@
   },
   "en": {
     "tray.open": "Open Windows Media Switcher",
+    "tray.checkUpdates": "Check for updates",
     "tray.exit": "Exit",
     "overlay.noTargets": "No media targets found",
     "overlay.noWindow": "no window",
