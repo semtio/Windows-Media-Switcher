@@ -1,0 +1,11 @@
+{
+  "SelectedTargetType": "session",
+  "SelectedTargetId": "chrome.exe",
+  "ToggleOnStartup": true,
+  "OverlayOpacity": 1,
+  "Language": "ru",
+  "GlobalHotkey": "Alt\u002BC",
+  "StartupDisplayDurationMs": 3000,
+  "MouseLeaveDisplayDurationMs": 300,
+  "StartWithWindows": true
+}
