@@ -22,7 +22,12 @@
     "settings.hotkeyHelp": "Нажмите на поле и введите сочетание. Оно сохранится только после кнопки «Сохранить».",
     "settings.capture": "Нажмите сочетание...",
     "settings.save": "Сохранить",
-    "language.russian": "Русский"
+    "language.russian": "Русский",
+    "donation.title": "Поддержать",
+    "donation.tooltip": "Показать реквизиты",
+    "donation.network": "Сеть",
+    "donation.copy": "Копировать",
+    "donation.copied": "Скопировано"
   },
   "en": {
     "tray.open": "Open Windows Media Switcher",
@@ -47,6 +52,11 @@
     "settings.hotkeyHelp": "Click the field and press a combination. It is saved only after selecting Save.",
     "settings.capture": "Press a key combination...",
     "settings.save": "Save",
-    "language.russian": "Russian"
+    "language.russian": "Russian",
+    "donation.title": "Donation",
+    "donation.tooltip": "Show donation details",
+    "donation.network": "Network",
+    "donation.copy": "Copy",
+    "donation.copied": "Copied"
   }
 }
