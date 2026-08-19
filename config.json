@@ -1,15 +1,20 @@
 {
   "SelectedTargetType": "session",
   "SelectedTargetId": "chrome.exe",
-  "ToggleOnStartup": false,
+  "ToggleOnStartup": true,
   "ToggleOnTrayClick": false,
   "PauseOtherTargetsOnSelection": true,
   "OverlayOpacity": 1,
+  "NeonGlowEnabled": true,
   "Language": "ru",
   "InstalledVersion": "1.0.4",
   "SkippedUpdateVersion": "",
+  "DismissedUpdateVersion": "1.0.5",
+  "DismissedUpdateWindowsSessionId": 1,
+  "DismissedUpdateBootMarkerTicks": 639227294702719176,
   "GlobalHotkey": "Alt\u002BC",
+  "OverlayHotkey": "Alt\u002BV",
   "StartupDisplayDurationMs": 3000,
   "MouseLeaveDisplayDurationMs": 300,
-  "StartWithWindows": false
+  "StartWithWindows": true
 }
