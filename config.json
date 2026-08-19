@@ -1,14 +1,15 @@
 {
-  "SelectedTargetType": "process",
-  "SelectedTargetId": "AIMP.exe",
-  "ToggleOnStartup": true,
+  "SelectedTargetType": "session",
+  "SelectedTargetId": "chrome.exe",
+  "ToggleOnStartup": false,
   "ToggleOnTrayClick": false,
   "PauseOtherTargetsOnSelection": true,
   "OverlayOpacity": 1,
   "Language": "ru",
-  "InstalledVersion": "",
+  "InstalledVersion": "1.0.4",
+  "SkippedUpdateVersion": "",
   "GlobalHotkey": "Alt\u002BC",
   "StartupDisplayDurationMs": 3000,
   "MouseLeaveDisplayDurationMs": 300,
-  "StartWithWindows": true
+  "StartWithWindows": false
 }
