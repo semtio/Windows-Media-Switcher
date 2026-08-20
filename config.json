@@ -6,6 +6,7 @@
   "PauseOtherTargetsOnSelection": true,
   "OverlayOpacity": 1,
   "NeonGlowEnabled": true,
+  "LimitVolumeTo50OnOpen": true,
   "Language": "ru",
   "InstalledVersion": "1.0.4",
   "SkippedUpdateVersion": "",
@@ -14,6 +15,8 @@
   "DismissedUpdateBootMarkerTicks": 639228143388949124,
   "GlobalHotkey": "Alt\u002BC",
   "OverlayHotkey": "Alt\u002BV",
+  "FolderHotkey": "Alt\u002BF",
+  "FolderPath": "D:\\\u0410\u0423\u0414\u0418\u041E",
   "StartupDisplayDurationMs": 3000,
   "MouseLeaveDisplayDurationMs": 300,
   "StartWithWindows": true
