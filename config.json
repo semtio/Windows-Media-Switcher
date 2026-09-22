@@ -9,6 +9,7 @@
   "OverlayPosition": "top-right",
   "NeonGlowEnabled": false,
   "LimitVolumeTo50OnOpen": true,
+  "TriggerVolumeLimitPercent": 25,
   "Language": "ru",
   "InstalledVersion": "1.0.4",
   "SkippedUpdateVersion": "",
