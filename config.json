@@ -20,8 +20,8 @@
   "LocalToggleHotkey": "Space",
   "FolderHotkey": "Alt\u002BF",
   "FolderPath": "D:\\\u0410\u0423\u0414\u0418\u041E",
-  "StartupDisplayDurationMs": 3000,
+  "StartupDisplayDurationMs": 15000,
   "MouseLeaveDisplayDurationMs": 300,
-  "KeyboardControlDisplayDurationMs": 5000,
+  "KeyboardControlDisplayDurationMs": 15000,
   "StartWithWindows": true
 }
